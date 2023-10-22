@@ -1,0 +1,9 @@
+CAJA DE FRUTAS 
+Descripción del reto
+
+Tengo 3 cajas, cada una contiene un tipo de fruta diferente (peras, manzanas y naranjas). El problema es que todas las cajas tienen las etiquetas de las frutas incorrectas. ¿Cuántas cajas necesito abrir para saber colocar todas las etiquetas correctamente?
+
+Solo hay que abrir una.
+Si prestamos atención al problema este dice que todas las cajas tienen las etiquetas erroneas, quiere decir que ninguna caja contiene la fruta descrita en su etiqueta
+
+Es decir, que si por ejemplo abro la caja de peras y encuentro manzanas entonces como todas tienen frutas incorrectas nos queda la caja de naranjas que sabemos que no puede tener naranjas entonces tendría peras, porque las manzanas ya están en la caja de peras y por último la caja de manzanas tiene las naranjas.
